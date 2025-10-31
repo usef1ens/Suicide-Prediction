@@ -17,4 +17,5 @@ The types of data that I will be using are, but not limited to: survey-based dat
 ## Resources (cited in the README)
 
 Cherry, K. (2025, September 3). What is psychoanalysis? Verywell Mind. https://www.verywellmind.com/what-is-psychoanalysis-2795246
+
 World Health Organization. (2025, March 25). Suicide. https://www.who.int/news-room/fact-sheets/detail/suicide
