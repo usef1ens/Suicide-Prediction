@@ -1,0 +1,23 @@
+[project]
+name = "suicide-prediction"
+version = "0.1.0"
+description = "ADD Health (Wave I) analysis and suicidality prediction"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "pyreadstat>=1.2",
+    "scikit-learn>=1.3",
+    "matplotlib>=3.8",
+    "jupyter>=1.0",
+    "ipykernel>=6.0",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.uv]
+# Optional: pin exact versions when locking
+# uv integrates with this pyproject to manage dependencies
